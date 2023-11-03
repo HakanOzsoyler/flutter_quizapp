@@ -6,9 +6,10 @@ Bu, Quiz App adlı mobil uygulamanın GitHub deposudur. Bu belge, uygulamanın g
 
 Quiz App uygulaması, kısacası quiz app yeni bir dil öğrenmenizi kolaylaştırır. Aşağıda uygulamanın bazı ana özelliklerini bulacaksınız:
 
-- 
-- Havanın durumuna göre yağışlı ise yağış iconu karlı ise karlı iconu ekranda kullanıcılara daha iyi bir bilgi veriyor.
-- Bulunduğu konumun Quiz Appnu ve istediği şehirin Quiz Appnu listesine ekleyerek dilediği zaman hava durumlarını görüntüleme.
+- Uygulama istediğiniz dil kelimeleri sizlere test yaparak bu kelimeleri öğrenmenizi amaçlamaktadır.
+- Yaptığınız testler sonucunda yanlış yanıtladığınız şıkları dikkate alarak kara liste oluşturuyor bu kara listeyi bu soruları doğru
+yanıtlayana kadar diğer testlerinizin içine koyarak kelimeleri öğrenmenizi sağlıyor.
+- Uygulamanın içerisinde birçok kelimenin barınması haricinde kullanıcı da istediği kelimeleri test için ekleyebilir silebilir.
 
 ## Ekran Görüntüleri
 
