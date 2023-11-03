@@ -15,24 +15,28 @@ yanıtlayana kadar diğer testlerinizin içine koyarak kelimeleri öğrenmenizi 
 
 Uygulamanın bazı ekran görüntülerini aşağıda bulabilirsiniz:
 
-
-<img src="https://github.com/HakanOzsoyler/hava_durumu/assets/77840330/97640afa-8c01-4889-b76c-ef062a2cf28e" width="200" alt="Ekran Görüntüsü 1">
+<img src="https://github.com/HakanOzsoyler/flutter_quizapp/assets/77840330/de8e0f1f-40a7-484e-bd3d-ceff080f52c0" width="200" alt="Ekran Görüntüsü 1">
 <br>
-- Ana ekranda Bulunduğu veya seçtiği şehirin Quiz Appnu detaylı olarak görme.
+- Ana ekranda testleri ve kelime listesine hızlı erişim vardır.
 <br>
-<img src="https://github.com/HakanOzsoyler/hava_durumu/assets/77840330/4e7e2d5b-6c39-4eec-8dac-61fef505c7d3" width="200" alt="Ekran Görüntüsü 2">
+<img src="https://github.com/HakanOzsoyler/flutter_quizapp/assets/77840330/6b55919b-b1e0-4897-a14f-caf93616fa15" width="200" alt="Ekran Görüntüsü 2">
 <br>
-- Bu ekranda Quiz Appnu görmek istediğiniz şehirleri listenize ekleyerek hava durumlarını kolayca bakabilirsiniz.
+- Test ekranı soruların sayısını görebileceğiniz her soru için belirlenen süre içerisinde cevaplamanız gereken kelime ve o kelimenin 
+anlamı bulunmakta.
 <br>
-<img src="https://github.com/HakanOzsoyler/hava_durumu/assets/77840330/f143e03f-5690-43a5-979b-957fde495fa5" width="200" alt="Ekran Görüntüsü 3">
+<img src="https://github.com/HakanOzsoyler/flutter_quizapp/assets/77840330/c358739e-6612-4ecf-a15d-21f134f6beec" width="200" alt="Ekran Görüntüsü 3">
 <br>
-- Dünyada bulunan bütün şehirleri arayarak bu ekrandan bulabilir ve listenize ekleyebilirsiniz.
+- Bütün var olan kelimelerinizi arayabildiğiniz ve bunları değiştirebildiğiniz kısım.
 <br>
-<img src="https://github.com/HakanOzsoyler/hava_durumu/assets/77840330/6e293598-8616-4bf5-b880-ec07497fe179" width="200" alt="Ekran Görüntüsü 4">
+<img src="https://github.com/HakanOzsoyler/flutter_quizapp/assets/77840330/5c32cc41-f955-4582-8312-cdd187fa172d" width="200" alt="Ekran Görüntüsü 4">
 <br>
-- Bir başka şehrin ekran görüntüsü
+- Arama sonucunda kelimenin adı ve anlamı.
 <br>
-<img src="https://github.com/HakanOzsoyler/hava_durumu/assets/77840330/a8568176-0101-4e46-9ff7-1007487f4a5c" width="200" alt="Ekran Görüntüsü 5">
+<img src="https://github.com/HakanOzsoyler/flutter_quizapp/assets/77840330/260a56fb-44f2-42a7-aa71-cd7b472321d2" width="200" alt="Ekran Görüntüsü 5">
 <br>
-- Burada da Konum iznimizi istiyoruz.
+- Aranan verileri veya listelenen kelimeleri aynı zamanda kaydırarak silebilirsiniz
+<br>
+<img src="https://github.com/HakanOzsoyler/flutter_quizapp/assets/77840330/03b10be8-fee5-4005-a754-5b64f0cddea0" width="200" alt="Ekran Görüntüsü 6">
+<br>
+- Listenize eklemek istediğiniz kelimeyi ve anlamını girerek kaydet butonu ile listenize yeni kelimenizi kolaylıkla ekleyebilirsiniz.
 <br>
